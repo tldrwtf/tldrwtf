@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://n3u.dev](https://n3u.dev)**
 
-- 📝 I write stuff on **[https://blog.n3u.dev](https://blog.n3u.dev)**
+- 📝 I regularly write articles on **[https://blog.n3u.dev](https://blog.n3u.dev)**
 
 
 <h3 align="left">Languages and Tools:</h3>
