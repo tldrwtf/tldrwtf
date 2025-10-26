@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tldrwtf&show_icons=true&locale=en" alt="tldrwtf" /></p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square)  <p align="left"> <a href="https://www.codewars.com/r/KSKBoA"><img src="https://www.codewars.com/users/tldrwtf/badges/small" alt="tldrwtf" /></a> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square) <a href="https://www.codewars.com/r/KSKBoA"><img src="https://www.codewars.com/users/tldrwtf/badges/small" alt="tldrwtf" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tldrwtf&" alt="tldrwtf" /></p>
 
