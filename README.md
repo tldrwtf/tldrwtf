@@ -1,15 +1,9 @@
 # Hi 👋, I'm Wilson Garcia
 
-### A Full Stack Developer
-
-
-
-- 🌱 I'm currently learning **Full Stack Software Engineering**
+### A Full Stack Developer (Primarily backend)
 
 - 📫 How to reach me **n3u.dev@gmail.com**
-
 - 👨‍💻 All of my projects are available at **[https://n3u.dev](https://n3u.dev)**
-
 - 📝 I regularly write articles on **[https://blog.n3u.dev](https://blog.n3u.dev)**
 
 
@@ -18,8 +12,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tldrwtf&show_icons=true&locale=en" alt="tldrwtf" /></p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square) <a href="https://www.codewars.com/r/KSKBoA"><img src="https://www.codewars.com/users/tldrwtf/badges/small" alt="tldrwtf" /></a>
+<a href="https://www.codewars.com/r/KSKBoA"><img src="https://www.codewars.com/users/tldrwtf/badges/large" alt="tldrwtf" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tldrwtf&" alt="tldrwtf" /></p>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square) 
+
 
 
