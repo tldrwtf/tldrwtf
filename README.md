@@ -1,10 +1,9 @@
-# Hi 👋, I'm Wilson Garcia
+# I'm Wilson Garcia
 
-### A Full Stack Developer (Primarily backend)
+## A Full Stack Developer (Primarily back-end)
 
-- 📫 How to reach me **n3u.dev@gmail.com**
-- 👨‍💻 All of my projects are available at **[https://n3u.dev](https://n3u.dev)**
-- 📝 I regularly write articles on **[https://blog.n3u.dev](https://blog.n3u.dev)**
+- How to reach me **n3u.dev@gmail.com**
+- All of my projects are available at **[https://n3u.dev](https://n3u.dev)**
 
 
 <h3 align="left">Languages and Tools:</h3>
