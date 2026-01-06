@@ -11,5 +11,10 @@
 
 <a href="https://www.codewars.com/r/KSKBoA"><img src="https://www.codewars.com/users/tldrwtf/badges/large" alt="tldrwtf" /></a>![Profile views counter](https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square)
 
+<details>
+  <summary>Oh no! Followed by my bots?</summary>
+  - Paranoid haters should priva<i>t</i>e their profiles. Grow up
+</details>
+
 
 
