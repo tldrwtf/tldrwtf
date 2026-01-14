@@ -3,7 +3,7 @@
 ## A Full Stack Developer (Primarily backend)
 
 - How to reach me **n3u.dev@gmail.com**
-- `**Updated 12/28/2025**` All of my projects are available at **[https://n3u.dev](https://n3u.dev)**  
+- All of my projects are available at **[https://n3u.dev](https://n3u.dev)**  
 
 
 <h3 align="left">Languages and Tools:</h3>
