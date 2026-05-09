@@ -5,5 +5,5 @@
 
 **Custom bots/plugins/scripts for...**
 
-Runelite - Storm - RLPL - DB4 - Discord
+Runelite (QoL or sideloading automation helpers) - Storm Client - RLPL - DB4 - Discord - Inu - PowBot - Eternal Client (Soon)
 <h3 align="left"><img src=https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square </img></h3>
