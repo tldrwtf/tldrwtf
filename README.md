@@ -1,4 +1,4 @@
-# Full Stack Developer with focus in automation.
+# Software Automation Engineer / Full Stack Web Developer
 
 - How to reach me n3u.dev@gmail.com , Discord "n3u.dev"
 - All of my projects can be viewed (for the most part) at **[HERE](https://n3u.dev)**  
