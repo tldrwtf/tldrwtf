@@ -5,7 +5,7 @@
 
 **Custom bots/plugins/scripts for...**
 
-RuneLite (QoL or sideloading automation helpers) - Storm Client - DB4 - Discord
+RuneLite (QoL or sideloading automation helpers) - DB4 - Discord - Twilite - RLPL - n3Plugins
 <h3 align="left"><img src=https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square </img></h3>
 
 <details>
