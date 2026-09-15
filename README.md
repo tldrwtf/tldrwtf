@@ -1,11 +1,11 @@
-# Software Automation Engineer / Full Stack Web Developer
+# Software Automation Engineer / Plugin + Bot Developer
 
-- How to reach me <a href='mailto&#58;n%3&#51;%7&#53;&#46;d&#37;&#54;&#53;%7&#54;&#64;gm&#37;6&#49;i&#108;&#37;2E&#37;63o%&#54;D'>n3u&#46;d&#101;v&#64;gmail&#46;co&#109;</a> , Discord "n3u.dev"
-- All of my projects can be viewed (for the most part) at **[HERE](https://n3u.dev)**  
+- How to reach me <a href='mailto&#58;n%3&#51;%7&#53;&#46;d&#37;&#54;&#53;%7&#54;&#64;gm&#37;6&#49;i&#108;&#37;2E&#37;63o%&#54;D'>n3u&#46;d&#101;v&#64;gmail&#46;co&#109;</a> , Discord "[n3u.dev](https://discord.com/users/741947344379183184)"
+- All of my projects can be viewed (for the most part) at **[HERE](https://n3u.dev)**  (Known outdated, missing all plugin related work.)
 
 **Custom bots/plugins/scripts for...**
 
-RuneLite (QoL or sideloading automation helpers) - DB4 - Discord - Twilite - RLPL - n3Plugins
+RuneLite (QoL or sideloading automation helpers) - Twilite - OnlyBot - EpicBot - RLPL - n3Plugins
 <h3 align="left"><img src=https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square </img></h3>
 
 <details>
