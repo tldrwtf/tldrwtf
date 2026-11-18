@@ -5,7 +5,7 @@
 
 **Custom bots/plugins/scripts for...**
 
-RuneLite (QoL or sideloading automation helpers) - Twilite - OnlyBot - EpicBot - RLPL - n3Plugins
+RuneLite (QoL or sideloading automation helpers) - OnlyBot - EpicBot - n3Client
 <h3 align="left"><img src=https://komarev.com/ghpvc/?username=tldrwtf&&style=flat-square </img></h3>
 
 <details>
